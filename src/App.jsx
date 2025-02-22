@@ -8,7 +8,8 @@ import SuperQuality from "./sections/SuperQuality";
 import PopularProducts from "./sections/PopularProducts";
 import Nav from "./Components/Nav";
 const App = ()=>(
- <main className="relative">
+ <main className="relative"> 
+ <div></div>
     <Nav></Nav>  
   <section className="xl:padding-1 wide:padding-r padding-b">
     <Hero/>
